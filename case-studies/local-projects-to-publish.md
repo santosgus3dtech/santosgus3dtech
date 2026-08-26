@@ -18,7 +18,7 @@ These were prepared as clean-history portfolio packages under `D:\github`.
 | Local path | Recommendation | Why |
 | --- | --- | --- |
 | `D:\github\imagine-3d` | Public case study first, sanitized demo later | Strongest product system, but currently private and has active uncommitted changes. Publish architecture, screenshots and selected modules only after a secrets/assets audit. |
-| `D:\github\gerador-mapas-rebral` | Case study only | Technically strong desktop/business automation, but contains private institutional/fiscal context. Do not make the raw repo public. |
+| `D:\github\gerador-mapas-rebral` (remote: `rebral-map-generator`) | Case study only | Technically strong desktop/business automation, but contains private institutional/fiscal context. Do not make the raw repo public. |
 | `D:\api_meshyai\image_to_model` | Optional follow-up demo | Could become a small example repo for prompt/image-to-model experiments if all images are owned and sanitized. |
 | `D:\chocadeira2026\pcb\scripts` | Optional engineering-tools repo | The EasyEDA generation scripts could become a separate "hardware automation scripts" repo if cleaned and documented. |
 
