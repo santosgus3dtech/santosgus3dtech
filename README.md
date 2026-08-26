@@ -16,8 +16,9 @@ I like projects that connect code to real-world operations: APIs that automate r
 
 ## Case Studies In Progress
 
-- `imagine-3d-case-study`: public, sanitized write-up for a private 3D-printing operations monorepo with landing page, cost calculator and `.3mf` generator.
-- `hardware-lab`: curated hardware/Arduino/Verilog work with photos, schematics and source separated from third-party libraries.
+- [Imagine3D Case Study](case-studies/imagine-3d.md): sanitized write-up for a private 3D-printing operations monorepo with landing page, cost calculator and `.3mf` generator.
+- [Local Projects Worth Publishing](case-studies/local-projects-to-publish.md): backlog of local projects from `D:\` that can become public repos or case studies.
+- `hardware-lab`: future curated hardware/Arduino/Verilog work with photos, schematics and source separated from third-party libraries.
 
 ## Tools I Use
 
@@ -33,4 +34,3 @@ Python, Go, C/C++, Verilog, SQLite, MySQL, FastAPI, Flask, PyQt5, Arduino, Raspb
 
 - Email: [santosgus3d@gmail.com](mailto:santosgus3d@gmail.com)
 - GitHub: [santosgus3dtech](https://github.com/santosgus3dtech)
-
