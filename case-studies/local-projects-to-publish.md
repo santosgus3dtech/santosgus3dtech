@@ -4,14 +4,14 @@ Inventory from `D:\` reviewed on 2026-08-26.
 
 ## Ready As Public Repos
 
-These were prepared as clean-history portfolio packages under `D:\organizar-github\publish`.
+These were prepared as clean-history portfolio packages under `D:\github`.
 
 | Public repo | Source | Why it is worth pinning |
 | --- | --- | --- |
-| `meshy-image-to-3d-toolkit` | `D:\api_meshyai` | Strong AI-to-3D/printing workflow with Node CLIs, Meshy API integration, model downloads, color splitting and repair helpers. |
-| `gerador-placas-3d-web` | `D:\github\gerador-placas-web` | Focused 3D QR/nameplate generator with FastAPI, Three.js preview, OpenSCAD and `.3mf` output. |
-| `chocadeira-pcb-controller` | `D:\chocadeira2026` | Hardware/PCB case with EasyEDA revision, BOM, AP63205 buck notes, screenshots and curated release files. |
-| `raspberry-service-dashboard` | `D:\organizar-github\repos\instagram-stl-auto-dm\monitor` | Standalone operational dashboard for Raspberry Pi services, logs, health checks, redaction and controlled restarts. |
+| `meshy-image-to-3d-toolkit` | `D:\github\meshy-image-to-3d-toolkit` | Strong AI-to-3D/printing workflow with Node CLIs, Meshy API integration, model downloads, color splitting and repair helpers. |
+| `gerador-placas-3d-web` | `D:\github\gerador-placas-3d-web` | Focused 3D QR/nameplate generator with FastAPI, Three.js preview, OpenSCAD and `.3mf` output. |
+| `chocadeira-pcb-controller` | `D:\github\chocadeira-pcb-controller` | Hardware/PCB case with EasyEDA revision, BOM, AP63205 buck notes, screenshots and curated release files. |
+| `raspberry-service-dashboard` | `D:\github\raspberry-service-dashboard` | Standalone operational dashboard for Raspberry Pi services, logs, health checks, redaction and controlled restarts. |
 
 ## Next Best Candidates
 
