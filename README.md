@@ -2,7 +2,7 @@
 
 Python Developer Junior and Computer Science student, currently pursuing postgraduate studies in Data Science & AI.
 
-I build practical software for automation, APIs, computer vision, data workflows, Raspberry Pi/Linux operations, 3D-printing tools and hardware experiments. I am targeting junior software roles in Brazil, Portugal and Canada, so this profile stays mostly in English while keeping a short Portuguese summary for Portuguese-speaking recruiters.
+I build practical software for automation, APIs, computer vision, data workflows, Raspberry Pi/Linux operations, 3D-printing tools and hardware experiments.
 
 ## Portuguese Summary
 
