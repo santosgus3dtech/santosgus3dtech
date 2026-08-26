@@ -29,9 +29,17 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 | [Go REST API](https://github.com/santosgus3dtech/go-rest-api) | Go, Gorilla Mux, GORM, SQLite, Docker | Layered CRUD API with persistence and Docker-friendly local development. |
 | [Verilog Digital Circuits Lab](https://github.com/santosgus3dtech/verilog-digital-circuits-lab) | Verilog | Digital logic and testbench work from computer engineering coursework. |
 
+## Public Demos And Playbooks
+
+- [3D Print Quote API Demo](https://github.com/santosgus3dtech/3d-print-quote-api-demo): sanitized FastAPI pricing engine for 3D-printing quotes, with tests and a clear calculation model.
+- [Computer Vision OCR Lab](https://github.com/santosgus3dtech/computer-vision-ocr-lab): OpenCV preprocessing and optional Tesseract OCR wrapper with CLI, sample assets and CI.
+- [Raspberry Pi Ops Playbook](https://github.com/santosgus3dtech/raspberry-pi-ops-playbook): reusable Linux/systemd deployment notes, redacted log helpers and service-health scripts for Raspberry Pi projects.
+- [Rebral Map Generator Case Study](https://github.com/santosgus3dtech/rebral-map-generator-case-study): sanitized architecture and technical write-up for a private Python automation system.
+
 ## Case Studies
 
 - [Imagine3D Case Study](case-studies/imagine-3d.md): private 3D-printing operations system with landing page, cost calculator, `.3mf` generation and order workflow.
+- [Rebral Map Generator Case Study](https://github.com/santosgus3dtech/rebral-map-generator-case-study): private document/spreadsheet automation system summarized without client data, credentials or generated files.
 - [Local Projects Worth Publishing](case-studies/local-projects-to-publish.md): backlog of local projects that can become public repos or sanitized case studies.
 
 ## Current Focus
