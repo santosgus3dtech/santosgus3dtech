@@ -9,8 +9,8 @@ These were prepared as clean-history portfolio packages under `D:\github`.
 | Public repo | Source | Why it is worth pinning |
 | --- | --- | --- |
 | `meshy-image-to-3d-toolkit` | `D:\github\meshy-image-to-3d-toolkit` | Strong AI-to-3D/printing workflow with Node CLIs, Meshy API integration, model downloads, color splitting and repair helpers. |
-| `gerador-placas-3d-web` | `D:\github\gerador-placas-3d-web` | Focused 3D QR/nameplate generator with FastAPI, Three.js preview, OpenSCAD and `.3mf` output. |
-| `chocadeira-pcb-controller` | `D:\github\chocadeira-pcb-controller` | Hardware/PCB case with EasyEDA revision, BOM, AP63205 buck notes, screenshots and curated release files. |
+| `3d-nameplate-generator` | `D:\github\3d-nameplate-generator` | Focused 3D QR/nameplate generator with FastAPI, Three.js preview, OpenSCAD and `.3mf` output. |
+| `egg-incubator-pcb-controller` | `D:\github\egg-incubator-pcb-controller` | Hardware/PCB case with EasyEDA revision, BOM, AP63205 buck notes, screenshots and curated release files. |
 | `raspberry-service-dashboard` | `D:\github\raspberry-service-dashboard` | Standalone operational dashboard for Raspberry Pi services, logs, health checks, redaction and controlled restarts. |
 
 ## Next Best Candidates
