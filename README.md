@@ -44,7 +44,7 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 
 ## Current Focus
 
-- Applying for junior developer roles in Brazil, Portugal and Canada.
+- Applying for junior developer roles.
 - Studying Data Science & AI while building practical Python/API projects.
 - Turning local 3D-printing and maker workflows into clean public projects.
 - Building backend automation with official APIs instead of fragile browser automation.
@@ -53,5 +53,3 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 ## Contact
 
 - Email: [santosgus3d@gmail.com](mailto:santosgus3d@gmail.com)
-- LinkedIn: [linkedin.com/in/gusviana](https://linkedin.com/in/gusviana)
-- GitHub: [santosgus3dtech](https://github.com/santosgus3dtech)
