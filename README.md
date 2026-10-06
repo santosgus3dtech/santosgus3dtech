@@ -20,33 +20,34 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 
 | Project | Stack | Why it matters |
 | --- | --- | --- |
-| [Instagram STL Auto DM](https://github.com/santosgus3dtech/instagram-stl-auto-dm) | Python, FastAPI, SQLite, Meta API, Raspberry Pi | API-based Instagram automation with webhook validation, idempotency, polling fallback, deployment scripts and tests. |
-| [Meshy Image to 3D Toolkit](https://github.com/santosgus3dtech/meshy-image-to-3d-toolkit) | Node.js, Python, Meshy API, GLB/3MF/STL | CLI workflow for image-to-3D generation, multi-view inputs, print endpoints, color splitting and repair helpers. |
+| [Pi Sentinel](https://github.com/santosgus3dtech/pi-sentinel) | Python, FastAPI, React, TypeScript, SQLite, Raspberry Pi | Self-hosted network and printer operations console with collectors, incidents, safe automation, deterministic demo data and a broad test suite. |
+| [Food Inventory Operations](https://github.com/santosgus3dtech/food-inventory-operations) | Python, Django, PostgreSQL, Docker | Multi-site inventory system with a stock ledger, audit trails, permissions, NF-e intake and a safe synthetic demo workflow. |
+| [Marketplace Telegram Bridge](https://github.com/santosgus3dtech/marketplace-telegram-bridge) | Python, FastAPI, OAuth, PostgreSQL, Redis | Event-driven bridge with durable delivery, idempotency, retries, security controls and deterministic reply suggestions. |
 | [3D Nameplate Generator](https://github.com/santosgus3dtech/3d-nameplate-generator) | FastAPI, OpenSCAD, Three.js, 3MF | Web app that turns names and QR content into multicolor 3D-printable `.3mf` files with an interactive preview. |
-| [Raspberry Service Dashboard](https://github.com/santosgus3dtech/raspberry-service-dashboard) | Python, FastAPI, systemd, Linux | Standalone web dashboard for Raspberry Pi service health, logs, token redaction and controlled restarts. |
-| [Egg Incubator PCB Controller](https://github.com/santosgus3dtech/egg-incubator-pcb-controller) | EasyEDA, Arduino UNO R4 WiFi, AP63205 | Curated hardware case study with schematic revision, BOM, buck power notes, sensors, RTC and test points. |
-| [Amateur Radio Call Manager](https://github.com/santosgus3dtech/amateur-radio-call-manager) | Python, PyQt5, SQLite | Desktop app built from a real request to register, edit, delete and export amateur-radio call records. |
-| [Go REST API](https://github.com/santosgus3dtech/go-rest-api) | Go, Gorilla Mux, GORM, SQLite, Docker | Layered CRUD API with persistence and Docker-friendly local development. |
-| [Verilog Digital Circuits Lab](https://github.com/santosgus3dtech/verilog-digital-circuits-lab) | Verilog | Digital logic and testbench work from computer engineering coursework. |
+| [Small Manufacturing Operations Demo](https://github.com/santosgus3dtech/small-manufacturing-ops-demo) | Python, FastAPI, SQLite, Docker | Portfolio-safe production dashboard with orders, Decimal-based quoting, demo RBAC and audit events. |
+| [Job Application Tracker Demo](https://github.com/santosgus3dtech/job-application-tracker-demo) | React, Node.js, SQLite | Responsive application pipeline with filters, bulk workflows, editable records and deterministic fictional data. |
 
 ## Public Demos And Playbooks
 
-- [3D Print Quote API Demo](https://github.com/santosgus3dtech/3d-print-quote-api-demo): sanitized FastAPI pricing engine for 3D-printing quotes, with tests and a clear calculation model.
-- [Computer Vision OCR Lab](https://github.com/santosgus3dtech/computer-vision-ocr-lab): OpenCV preprocessing and optional Tesseract OCR wrapper with CLI, sample assets and CI.
+- [Secure Document Library Demo](https://github.com/santosgus3dtech/secure-document-library-demo): FastAPI portal with server-side role checks, defensive PDF handling, path containment, soft deletion and audit events.
+- [Signed Release Trust Demo](https://github.com/santosgus3dtech/signed-release-trust-demo): Ed25519 manifests, verified installation, rollback and device-bound lease validation.
+- [Parametric Fit Validation Lab](https://github.com/santosgus3dtech/parametric-fit-validation-lab): printable-clearance calculations, watertight STL generation and manifold validation from JSON specifications.
+- [Computer Vision OCR Lab](https://github.com/santosgus3dtech/computer-vision-ocr-lab): OpenCV preprocessing, Tesseract OCR and reproducible error-rate reporting with synthetic assets.
+- [3D Print Quote API Demo](https://github.com/santosgus3dtech/3d-print-quote-api-demo): interactive FastAPI estimator for material, energy, depreciation, labor, risk, margin and marketplace fees.
+- [Product Media Pipeline](https://github.com/santosgus3dtech/product-media-pipeline): deterministic image normalization, duplicate detection, manifests and contact sheets for generated product media.
 - [Raspberry Pi Ops Playbook](https://github.com/santosgus3dtech/raspberry-pi-ops-playbook): reusable Linux/systemd deployment notes, redacted log helpers and service-health scripts for Raspberry Pi projects.
-- [Rebral Map Generator Case Study](https://github.com/santosgus3dtech/rebral-map-generator-case-study): sanitized architecture and technical write-up for a private Python automation system.
+- [Rebral Map Generator Case Study](https://github.com/santosgus3dtech/rebral-map-generator-case-study): runnable JSON-to-XLSX case study with formulas, validation and a generated workbook preview.
 
 ## Case Studies
 
 - [Imagine3D Case Study](case-studies/imagine-3d.md): private 3D-printing operations system with landing page, cost calculator, `.3mf` generation and order workflow.
 - [Rebral Map Generator Case Study](https://github.com/santosgus3dtech/rebral-map-generator-case-study): private document/spreadsheet automation system summarized without client data, credentials or generated files.
-- [Local Projects Worth Publishing](case-studies/local-projects-to-publish.md): backlog of local projects that can become public repos or sanitized case studies.
 
 ## Current Focus
 
 - Applying for junior developer roles.
 - Studying Data Science & AI while building practical Python/API projects.
-- Turning local 3D-printing and maker workflows into clean public projects.
+- Turning private production workflows into focused, sanitized public demonstrations.
 - Building backend automation with official APIs instead of fragile browser automation.
 - Improving repository hygiene: tests, setup docs, `.env.example`, ignored generated assets and safer public histories.
 
