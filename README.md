@@ -12,7 +12,7 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 
 - **Languages:** Python, Go, SQL, C/C++, JavaScript/Node.js
 - **Backend and automation:** FastAPI, Flask, REST APIs, SQLite, MySQL, Docker, Linux/systemd, webhooks and API integrations
-- **Data, AI and computer vision:** OpenCV, OCR, NumPy, Scikit-Learn, data-processing scripts and practical AI workflows
+- **Data, AI and computer vision:** RAG, Model Context Protocol (MCP), OpenAI APIs, OpenCV, OCR, NumPy, Scikit-Learn, retrieval evaluation and practical AI workflows
 - **Hardware and maker:** Arduino, Raspberry Pi, EasyEDA, Verilog/FPGA, OpenSCAD, 3D printing and `.3mf` workflows
 - **Professional context:** Python Developer Junior at Associacao Centro Educacional Rebral; founder of Tech2Create, a maker/3D-printing community and production workflow
 
@@ -20,6 +20,7 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 
 | Project | Stack | Why it matters |
 | --- | --- | --- |
+| [Manufacturing Knowledge Agent](https://github.com/santosgus3dtech/manufacturing-knowledge-agent) | Python, FastAPI, React, TypeScript, MCP, RAG, OpenAI, Docker | Grounded manufacturing assistant with hybrid retrieval, inspectable citations, typed MCP tools/resources, deterministic quoting and a versioned retrieval evaluation suite. |
 | [Pi Sentinel](https://github.com/santosgus3dtech/pi-sentinel) | Python, FastAPI, React, TypeScript, SQLite, Raspberry Pi | Self-hosted network and printer operations console with collectors, incidents, safe automation, deterministic demo data and a broad test suite. |
 | [Food Inventory Operations](https://github.com/santosgus3dtech/food-inventory-operations) | Python, Django, PostgreSQL, Docker | Multi-site inventory system with a stock ledger, audit trails, permissions, NF-e intake and a safe synthetic demo workflow. |
 | [Marketplace Telegram Bridge](https://github.com/santosgus3dtech/marketplace-telegram-bridge) | Python, FastAPI, OAuth, PostgreSQL, Redis | Event-driven bridge with durable delivery, idempotency, retries, security controls and deterministic reply suggestions. |
@@ -47,6 +48,7 @@ Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando 
 
 - Applying for junior developer roles.
 - Studying Data Science & AI while building practical Python/API projects.
+- Building auditable MCP and RAG systems with citations, deterministic tools and retrieval evaluations.
 - Turning private production workflows into focused, sanitized public demonstrations.
 - Building backend automation with official APIs instead of fragile browser automation.
 - Improving repository hygiene: tests, setup docs, `.env.example`, ignored generated assets and safer public histories.
