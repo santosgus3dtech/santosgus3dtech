@@ -1,14 +1,8 @@
 # Gustavo Santos
 
-Python Developer Junior and Computer Science student, currently pursuing postgraduate studies in Data Science & AI.
+Junior Python Developer and Computer Science graduate, currently pursuing postgraduate studies in Data Science & AI.
 
 I build practical software for automation, APIs, computer vision, data workflows, Raspberry Pi/Linux operations, 3D-printing tools and hardware experiments.
-
-## Education
-
-- Postgraduate studies in Data Science & AI - in progress
-- Computer Science - in progress
-- San Diego State University - attended
 
 ## What I Work With
 
