@@ -4,9 +4,11 @@ Python Developer Junior and Computer Science student, currently pursuing postgra
 
 I build practical software for automation, APIs, computer vision, data workflows, Raspberry Pi/Linux operations, 3D-printing tools and hardware experiments.
 
-## Portuguese Summary
+## Education
 
-Desenvolvedor Python Junior, estudante de Ciencia da Computacao e pos-graduando em Ciencia de Dados & IA. Tenho experiencia com automacao de processos, APIs, visao computacional/OCR, ferramentas internas, Raspberry Pi/Linux, impressao 3D e projetos maker.
+- Postgraduate studies in Data Science & AI - in progress
+- Computer Science - in progress
+- San Diego State University - attended
 
 ## What I Work With
 
